@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Juego Piedra Papel o Tijera</string>
+
+    <string-array name="juego">
+        <item>Seleccione Elemento...</item>
+        <item>Piedra</item>
+        <item>Tijera</item>
+        <item>Papel</item>
+    </string-array>
+
+</resources>
